@@ -28,3 +28,16 @@
 21. Turn left onto Sentinel Drive (0.3 mi, 1 min)
 22. Turn left onto Northside Dr (0.5 mi, 1 min)
 
+---
+
+## Distance Matrix (travel time & distance)
+
+**San Francisco, CA → Yosemite Valley, CA**: 191 mi (307.9 km), 3 hrs 52 mins
+
+**San Francisco, CA → Mariposa, CA**: 270 km (169 mi), 2 hrs 49 mins
+
+**Yosemite Valley, CA → San Francisco, CA**: 306 km (190 mi), 3 hrs 51 mins
+
+**Yosemite Valley, CA → Mariposa, CA**: 67.6 km (42 mi), 1 hr 4 mins
+
+**Mariposa, CA → Yosemite Valley, CA**: 69.0 km (43 mi), 1 hr 6 mins
